@@ -36,7 +36,7 @@
 
 **Let's Connect:**
 
-- Email: _zulun.he@gmail.com_
+- Email: _alanBizAcc@gmail.com_
 - Bilibili Account(FTC 19604): [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2122417636?spm_id_from=333.337.search-card.all.click)
 
 ---
