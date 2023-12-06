@@ -38,6 +38,13 @@
 
 - Email: _alanBizAcc@gmail.com_
 - Bilibili Account(FTC 19604): [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2122417636?spm_id_from=333.337.search-card.all.click)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zulun-he-a367612a3/)](https://www.linkedin.com/in/zulun-he-a367612a3/)
+
+---
+### Portfolio
+- [GitHub Profile](https://github.com/Cometgerms)
+- [CodinGame Profile](https://www.codingame.com/profile/645bc3f8b0a1b9f68f882b773d1dc4ff4276775)
+
 
 ---
 ### **USACO Account**
