@@ -17,7 +17,7 @@
 - By the tenth grade, I had achieved the USACO Platinum level, showcasing my advanced proficiency in competitive programming. My participation in numerous mathematical modeling contests further refined my skills in Python for data analysis and model application, representing a significant accumulation of practical and theoretical mathematical and computer science knowledge in the field.
 ---
 
-## **Languages and Tools:**
+### **Languages and Tools:**
 
 -  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 -  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -34,11 +34,17 @@
 [//]: # ()
 [//]: # (---)
 
-## **Let's Connect:**
+### **Let's Connect:**
 
 - Email: _alanBizAcc@gmail.com_
 - Bilibili Account(FTC 19604): [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2122417636?spm_id_from=333.337.search-card.all.click)
 
 ---
-## **USACO Account**
+### **USACO Account**
 ![USACO](https://github.com/Cometgerms/Cometgerms/assets/115977928/23ad7b60-903b-496e-a4d9-53dd038d3cad)
+---
+### Github Stats
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
