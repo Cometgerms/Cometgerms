@@ -1,5 +1,4 @@
 # Hi there, I'm Zulun(Alan) He! 
-![Cat](https://media.tenor.com/cuL2ZbSd_sAAAAAd/nachoneko.gif)
 #### Welcome to my GitHub profile!
 
 /ᐠ｡▿｡ᐟ\ᵖᵘʳʳ
@@ -50,7 +49,7 @@
 ### **USACO Account**
 ![USACO](https://github.com/Cometgerms/Cometgerms/assets/115977928/23ad7b60-903b-496e-a4d9-53dd038d3cad)
 ---
-### Github Stats
+### Github Info
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
