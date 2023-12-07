@@ -15,7 +15,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.isocalendar.svg
+            filename: metrics.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
+            plugin_achievements: yes
+            plugin_people: yes
+            plugin_languages: yes
+            plugin_languages_indepth: yes
             plugin_isocalendar: yes
