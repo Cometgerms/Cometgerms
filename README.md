@@ -1,8 +1,6 @@
 # Hi there, I'm Zulun(Alan) He! 
 #### Welcome to my GitHub profile!
 
-/ᐠ｡▿｡ᐟ\ᵖᵘʳʳ
-
 ---
 
 ## **About Me:**
