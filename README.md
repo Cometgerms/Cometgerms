@@ -1,6 +1,5 @@
 # Hi there, I'm Zulun(Alan) He! 
 #### Welcome to my GitHub profile!
-![Cat](https://media.tenor.com/cuL2ZbSd_sAAAAAd/nachoneko.gif)
 
 ---
 
