@@ -42,7 +42,6 @@
 - [GitHub Profile](https://github.com/Cometgerms)
 - [CodinGame Profile](https://www.codingame.com/profile/645bc3f8b0a1b9f68f882b773d1dc4ff4276775)
 
-
 ---
 
 ### Github Info
