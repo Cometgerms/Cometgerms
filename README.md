@@ -1,8 +1,6 @@
 # Hi there, I'm Zulun(Alan) He! 
 #### Welcome to my GitHub profile!
-
 ---
-
 ## **About Me:**
 
 - Possessing eight years of programming experience, I began my journey in the world of coding with Pascal in the third grade, making me one of the final waves of students to engage with this classic language. (But seriously, who would've thought Pascal was still a thing in school? Talk about a throwback!)
