@@ -10,7 +10,7 @@
 - Eighth grade can be considered a milestone for paper writing. I published the research paper ["Research on image dimensionality reduction images"](https://dl.acm.org/doi/10.1145/3502814.3502819)
 - In my ninth-grade year, I applied my knowledge of computer vision to FTC robotics, representing my team (number 19604). This practical application of theoretical models was a crucial step in my technological journey. Besides, as the leader of the team, I strengthened my communication and management skills.
 - By the tenth grade, I had achieved the USACO Platinum level, showcasing my advanced proficiency in competitive programming. My participation in numerous mathematical modeling contests further refined my skills in Python for data analysis and model application, representing a significant accumulation of practical and theoretical mathematical and computer science knowledge in the field.
-- 
+  
 ---
 
 ### **Languages and Tools:**
