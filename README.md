@@ -33,7 +33,7 @@
 
 - Email: _alanBizAcc@gmail.com_
 - Bilibili Account(FTC 19604): [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2122417636?spm_id_from=333.337.search-card.all.click)
-- Personal Bilibili Account: [![Bilibili]([https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2122417636?spm_id_from=333.337.search-card.all.click](https://space.bilibili.com/473356546?spm_id_from=333.1007.0.0))
+- Personal Bilibili Account: [![Bilibili]([https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/473356546?spm_id_from=333.1007.0.0))
 
 ---
 ### Portfolio
