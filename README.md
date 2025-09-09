@@ -17,6 +17,7 @@
 -  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 -  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 -  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+-  Max 8
 
 ---
 
