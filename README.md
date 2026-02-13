@@ -5,8 +5,6 @@
 
 
 - C++, Python, Java, Pascal(But seriously, who would've thought Pascal was still a thing in school? Talk about a throwback!)
-- Published the research paper at Grade8 ["Research on image dimensionality reduction images"](https://dl.acm.org/doi/10.1145/3502814.3502819)
-- Previous FTC robotics expriences (number 19604)
 - USACO Platinum level
 - Current CMU BCSA student
   
